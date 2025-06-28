@@ -9,12 +9,12 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 <ul>
   <li>🎓 Pursuing B.Tech in <b>AI & Data Science</b></li>
   <li>🌟 Diploma in Computer Science Engineering</li>
-  <li>⚙️ Building end-to-end solutions: AI, Cloud, PQC, Surveillance, Secure Auth</li>
+  <li>📡 Building end-to-end solutions: AI, Cloud, PQC, Surveillance, Secure Auth</li>
   <li>✨ Passionate about solving real-world problems with tech</li>
 </ul>
 
