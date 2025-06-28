@@ -92,8 +92,8 @@
 
 ### 🏆 Achievements
 - Govt. certified in **C**, **C++**, **Java**, **JavaScript**
-- State-level Chess Player (2018)
-- State-level Football Player (2017, 2019)
+- State-level Chess Player 
+- State-level Football Player 
 
 ---
 
